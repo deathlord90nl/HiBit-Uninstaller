@@ -1,5 +1,5 @@
-![0](https://github.com/user-attachments/assets/85449680-69e4-4b67-ac57-e84d9fa3464b)
 
+![1670193578_hibit-uninstaller-3](https://github.com/user-attachments/assets/9540d8a0-ae97-4ea4-9e45-a16cb400a5fb)
 
 # 🚀 **HiBit Uninstaller** – Powerful & Lightweight Uninstaller for Windows! 
 
